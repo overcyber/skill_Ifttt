@@ -1,5 +1,7 @@
 # Ifttt
 
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_Ifttt/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_Ifttt/pipelines/latest)
+
 ### Download
 
 ##### > WGET method
