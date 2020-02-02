@@ -44,5 +44,5 @@ class Ifttt(AliceSkill):
 
 			return IftttException.NO_USER
 		except Exception as e:
-			self.logError(f'Error trying to request api: {e}')
+			self.log.error(f'Error trying to request api: {e}')
 			return IftttException.ERROR

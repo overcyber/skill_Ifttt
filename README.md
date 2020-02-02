@@ -12,10 +12,10 @@ wget http://skills.projectalice.ch/ifttt -O ~/ProjectAlice/system/skillInstallTi
 ### Description
 Use ifttt services
 
-- Version: 1.0.5
+- Version: 1.0.6
 - Author: Psychokiller1888
 - Maintainers: maxbachmann
-- Alice minimum Version: 1.0.0-a4
+- Alice minimum Version: 1.0.0-a5
 - Conditions:
   - online
 - Requirements: N/A
