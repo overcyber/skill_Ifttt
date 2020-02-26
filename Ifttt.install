@@ -1,6 +1,7 @@
 {
 	"name": "Ifttt",
 	"version": "1.0.7",
+	"icon": "battle-net",
 	"author": "Psychokiller1888",
 	"maintainers": ["maxbachmann"],
 	"desc": "Use ifttt services",
