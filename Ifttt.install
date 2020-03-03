@@ -2,6 +2,7 @@
 	"name": "Ifttt",
 	"version": "1.0.8",
 	"icon": "fab fa-battle-net",
+	"category": "undefined",
 	"author": "Psychokiller1888",
 	"maintainers": ["maxbachmann"],
 	"desc": "Use ifttt services",
