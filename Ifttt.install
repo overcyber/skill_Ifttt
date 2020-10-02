@@ -1,18 +1,20 @@
 {
-	"name": "Ifttt",
-	"version": "1.0.8",
-	"icon": "fab fa-battle-net",
-	"category": "automation",
-	"author": "Psychokiller1888",
-	"maintainers": ["maxbachmann"],
-	"desc": "Use ifttt services",
-	"aliceMinVersion": "1.0.0-a5",
-	"systemRequirements": [],
-	"pipRequirements": [],
-	"conditions": {
-		"online": true,
-		"lang": [
-			"en"
-		]
-	}
+    "name": "Ifttt",
+    "version": "1.0.9",
+    "icon": "fab fa-battle-net",
+    "category": "automation",
+    "author": "Psychokiller1888",
+    "maintainers": [
+        "maxbachmann"
+    ],
+    "desc": "Use ifttt services",
+    "aliceMinVersion": "1.0.0-a5",
+    "systemRequirements": [],
+    "pipRequirements": [],
+    "conditions": {
+        "online": true,
+        "lang": [
+            "en"
+        ]
+    }
 }
